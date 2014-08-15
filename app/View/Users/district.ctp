@@ -1,0 +1,1 @@
+<?php echo $this->Form->input('district_id', array('options'=>$response,'empty'=>'Select')); ?>
